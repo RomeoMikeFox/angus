@@ -1,2 +1,1 @@
-# angus
-ANGUS - Aurora Navdata Generation Utility Software
+# ANGUS - Aurora Navdata Generation Utility Software
