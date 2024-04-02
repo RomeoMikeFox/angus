@@ -6,6 +6,8 @@ It is being developed to ease the process of keeping Aurora sector files up-to-d
 
 This GitHub repository is used to share software releases, provide a user manual and allow users for bug reports.
 
+Source code remains closed for the time. It will eventually become public at a later stage.
+
 ## How to use
 Please refer to the [Wiki](https://github.com/RomeoMikeFox/angus/wiki) for instructions on requirements and how to use the software.
 
